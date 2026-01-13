@@ -8,6 +8,7 @@ This project is built with:
 
 
 How to run this Project
-npm -v  //this will check the version of npm
-npm install //to install npm modules
-npm run dev //this runs the project in localhost
+- npm -v  //this will check the version of npm
+- npm install //to install npm modules
+- npm run dev //this runs the project in localhost
+
